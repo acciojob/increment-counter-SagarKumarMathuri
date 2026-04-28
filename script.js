@@ -1,1 +1,7 @@
-//your JS code here. If required.
+// //your JS code here. If required.
+// let count = 0;
+
+// document.getElementById("incrementBtn").addEventListener("click", function () {
+//     alert(count);   // show un-incremented value
+//     count++;        // increment after alert
+//     document.getElementById("counter").textContent = count;
